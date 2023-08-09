@@ -288,7 +288,6 @@ class Bank_Accounts:
         user_info = self.bank_accounts[userID]
         accounts = user_info["accounts"]
 
-        print(accounts[0])
 
         print("---------------")
         print(f"userID = {userID}")
